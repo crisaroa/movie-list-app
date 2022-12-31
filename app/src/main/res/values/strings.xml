@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movie List App</string>
+    <string name="sort">Sort</string>
+    <string name="movies">Movies</string>
+    <string name="details_title">Movies</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="movie_title_placeholder">Spider-Man: Into the Spider-Verse</string>
+    <string name="add_to_wishlist">Add to wishlist</string>
+    <string name="watch_trailer">Watch trailer</string>
+    <string name="remove_from_wishlist">Remove from wishlist</string>
+    <string name="movie_rating_placeholder">8.4</string>
+    <string name="movie_description_placeholder">Teen Miles Morales becomes the Spider-Man of his universe, and must join with five
+spider-powered individuals from other dimensions to stop a threat for all realities.</string>
+    <string name="movie_genre_placeholder">Action, Animation, Adventure</string>
+    <string name="movie_release_date_placeholder">14 December 2018</string>
+    <string name="released_date">Released date</string>
+    <string name="genre">Genre</string>
+    <string name="details">Details</string>
+    <string name="short_description">Short description</string>
+    <string name="_10">/10</string>
+    <string name="close_affordance">Close Affordance</string>
+    <string name="title">Title</string>
+    <string name="cancel">Cancel</string>
+</resources>
